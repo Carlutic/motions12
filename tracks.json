@@ -1,0 +1,365 @@
+[
+  {
+    "name": "小苹果 (left + right)",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_chopstick_brothers_little_apple/_left_right_/main.vmd",
+    "partnerMotionFile": "songs/songs_chopstick_brothers_little_apple/_left_right_/partner.vmd",
+    "camMotionFile": "songs/songs_chopstick_brothers_little_apple/_left_right_/camera.vmd",
+    "audioPlayerFile": "songs/songs_chopstick_brothers_little_apple/_left_right_/audio.wav"
+  },
+  {
+    "name": "小苹果 单人",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_chopstick_brothers_little_apple/_/main.vmd",
+    "camMotionFile": "songs/songs_chopstick_brothers_little_apple/_left_right_/camera.vmd",
+    "audioPlayerFile": "songs/songs_chopstick_brothers_little_apple/_left_right_/audio.wav"
+  },
+  {
+    "name": "Juicy - jane",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_doja_cat_tyga_juicy/juicy_jane/main.vmd",
+    "camMotionFile": "songs/songs_doja_cat_tyga_juicy/juicy_jane/camera.vmd",
+    "audioPlayerFile": "songs/songs_doja_cat_tyga_juicy/juicy_jane/audio.wav"
+  },
+  {
+    "name": "Juicy - motion 2",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_doja_cat_tyga_juicy/juicy_motion_2/main.vmd",
+    "camMotionFile": "songs/songs_doja_cat_tyga_juicy/juicy_jane/camera.vmd",
+    "audioPlayerFile": "songs/songs_doja_cat_tyga_juicy/juicy_jane/audio.wav"
+  },
+  {
+    "name": "Juicy - motion 3",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_doja_cat_tyga_juicy/juicy_motion_3/main.vmd",
+    "camMotionFile": "songs/songs_doja_cat_tyga_juicy/juicy_jane/camera.vmd",
+    "audioPlayerFile": "songs/songs_doja_cat_tyga_juicy/juicy_jane/audio.wav"
+  },
+  {
+    "name": "Juicy - zatsune",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_doja_cat_tyga_juicy/juicy_zatsune/main.vmd",
+    "camMotionFile": "songs/songs_doja_cat_tyga_juicy/juicy_jane/camera.vmd",
+    "expressionMotionFile": "songs/songs_doja_cat_tyga_juicy/juicy_zatsune/expression.vmd",
+    "audioPlayerFile": "songs/songs_doja_cat_tyga_juicy/juicy_jane/audio.wav"
+  },
+  {
+    "name": "ASTER",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_eku_aster_jeride_challenge/aster/main.vmd",
+    "camMotionFile": "songs/songs_eku_aster_jeride_challenge/aster/camera.vmd",
+    "audioPlayerFile": "songs/songs_eku_aster_jeride_challenge/aster/audio.wav"
+  },
+  {
+    "name": "Hatsune Miku - 6AM",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_hatsune_miku_6am/hatsune_miku_6am/main.vmd",
+    "camMotionFile": "songs/songs_hatsune_miku_6am/hatsune_miku_6am/camera.vmd",
+    "audioPlayerFile": "songs/songs_hatsune_miku_6am/hatsune_miku_6am/audio.wav"
+  },
+  {
+    "name": "Hatsune Miku - 6AM (Smooth)",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_hatsune_miku_6am_data/hatsune_miku_6am_smooth_/main.vmd"
+  },
+  {
+    "name": "Hatsune Miku - 6AM (legs)",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_hatsune_miku_6am_data/hatsune_miku_6am_legs_/main.vmd"
+  },
+  {
+    "name": "If We Ever Broke Up",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_mae_stephens_if_we_ever_broke_up/if_we_ever_broke_up/main.vmd",
+    "camMotionFile": "songs/songs_mae_stephens_if_we_ever_broke_up/if_we_ever_broke_up/camera.vmd",
+    "audioPlayerFile": "songs/songs_mae_stephens_if_we_ever_broke_up/if_we_ever_broke_up/audio.wav"
+  },
+  {
+    "name": "Lean On",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_major_lazer_dj_snake_lean_on/lean_on/main.vmd",
+    "camMotionFile": "songs/songs_major_lazer_dj_snake_lean_on/lean_on/camera.vmd",
+    "expressionMotionFile": "songs/songs_major_lazer_dj_snake_lean_on/lean_on/expression.vmd",
+    "audioPlayerFile": "songs/songs_major_lazer_dj_snake_lean_on/lean_on/audio.wav"
+  },
+  {
+    "name": "Lean On 2",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_major_lazer_dj_snake_lean_on/lean_on_2/main.vmd",
+    "camMotionFile": "songs/songs_major_lazer_dj_snake_lean_on/lean_on/camera.vmd",
+    "expressionMotionFile": "songs/songs_major_lazer_dj_snake_lean_on/lean_on/expression.vmd",
+    "audioPlayerFile": "songs/songs_major_lazer_dj_snake_lean_on/lean_on/audio.wav"
+  },
+  {
+    "name": "少女未遂",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_miku_luka/_/main.vmd"
+  },
+  {
+    "name": "Pomp and Circumstance - 西",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_pomp_and_circumstance/pomp_and_circumstance_/main.vmd"
+  },
+  {
+    "name": "Pomp and Circumstance - 英",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_pomp_and_circumstance/pomp_and_circumstance_/main_2.vmd"
+  },
+  {
+    "name": "Pomp and Circumstance - 仏",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_pomp_and_circumstance/pomp_and_circumstance_/main_3.vmd"
+  },
+  {
+    "name": "Pomp and Circumstance - 普",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_pomp_and_circumstance/pomp_and_circumstance_/main_4.vmd"
+  },
+  {
+    "name": "Pomp and Circumstance - 米",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_pomp_and_circumstance/pomp_and_circumstance_/main_5.vmd"
+  },
+  {
+    "name": "Pomp and Circumstance - 日",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_pomp_and_circumstance/pomp_and_circumstance_/main_6.vmd"
+  },
+  {
+    "name": "Pomp and Circumstance - 南伊(改変)",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_pomp_and_circumstance/pomp_and_circumstance_/main_7.vmd"
+  },
+  {
+    "name": "Pomp and Circumstance - 独",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_pomp_and_circumstance/pomp_and_circumstance_/main_8.vmd"
+  },
+  {
+    "name": "Pomp and Circumstance - 北伊(改変)",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_pomp_and_circumstance/pomp_and_circumstance_/main_9.vmd"
+  },
+  {
+    "name": "Pomp and Circumstance キスver - 南伊",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_pomp_and_circumstance_ver/pomp_and_circumstance_ve/main.vmd"
+  },
+  {
+    "name": "Pomp and Circumstance キスver - 北伊",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_pomp_and_circumstance_ver/pomp_and_circumstance_ve/main_2.vmd"
+  },
+  {
+    "name": "Black and Gold - Ass_On_The_Floor",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_ass_on_th/main.vmd",
+    "camMotionFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_ass_on_th/camera.vmd",
+    "audioPlayerFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_ass_on_th/audio.wav"
+  },
+  {
+    "name": "Black and Gold - Black_&_Gold",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_black_gol/main.vmd",
+    "camMotionFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_ass_on_th/camera.vmd",
+    "audioPlayerFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_ass_on_th/audio.wav"
+  },
+  {
+    "name": "Black and Gold - last_night",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_last_nigh/main.vmd",
+    "camMotionFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_ass_on_th/camera.vmd",
+    "audioPlayerFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_ass_on_th/audio.wav"
+  },
+  {
+    "name": "Black and Gold - louboutins",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_louboutin/main.vmd",
+    "camMotionFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_ass_on_th/camera.vmd",
+    "audioPlayerFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_ass_on_th/audio.wav"
+  },
+  {
+    "name": "Black and Gold - there_she_goes",
+    "group": "Songs",
+    "modelMotionFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_there_she/main.vmd",
+    "camMotionFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_ass_on_th/camera.vmd",
+    "audioPlayerFile": "songs/songs_sam_sparro_black_and_gold/black_and_gold_ass_on_th/audio.wav"
+  },
+  {
+    "name": "39 (サンキュー)",
+    "group": "Songs",
+    "modelMotionFile": "songs/unk_39/39_/main.vmd",
+    "camMotionFile": "songs/unk_39/39_/camera.vmd"
+  },
+  {
+    "name": "GETCHA - ëE",
+    "group": "Songs",
+    "modelMotionFile": "songs/unk_getcha_j_i_f_j/getcha_e/main.vmd",
+    "camMotionFile": "songs/unk_getcha_j_i_f_j/getcha_e/camera.vmd"
+  },
+  {
+    "name": "GETCHA - ì¦",
+    "group": "Songs",
+    "modelMotionFile": "songs/unk_getcha_j_i_f_j/getcha_/main.vmd",
+    "camMotionFile": "songs/unk_getcha_j_i_f_j/getcha_/camera.vmd"
+  },
+  {
+    "name": "IA Conqueror (full key)",
+    "group": "Songs",
+    "modelMotionFile": "songs/unk_ia_conqueror_motion/ia_conqueror_full_key_/main.vmd"
+  },
+  {
+    "name": "IA Conqueror (light)",
+    "group": "Songs",
+    "modelMotionFile": "songs/unk_ia_conqueror_motion/ia_conqueror_light_/main.vmd"
+  },
+  {
+    "name": "KDRD (A)",
+    "group": "Songs",
+    "modelMotionFile": "songs/unk_kdrd/kdrd_a_/main.vmd"
+  },
+  {
+    "name": "KDRD (B)",
+    "group": "Songs",
+    "modelMotionFile": "songs/unk_kdrd/kdrd_b_/main.vmd"
+  },
+  {
+    "name": "MMD STAYC POPPY",
+    "group": "Songs",
+    "modelMotionFile": "songs/unk_mmd_stayc_poppy/mmd_stayc_poppy/main.vmd",
+    "audioPlayerFile": "songs/unk_mmd_stayc_poppy/mmd_stayc_poppy/audio.wav"
+  },
+  {
+    "name": "shuffle dance A",
+    "group": "Songs",
+    "modelMotionFile": "songs/unk_shuffle_dance_vmd/shuffle_dance_a/main.vmd"
+  },
+  {
+    "name": "shuffle dance B",
+    "group": "Songs",
+    "modelMotionFile": "songs/unk_shuffle_dance_vmd/shuffle_dance_b/main.vmd"
+  },
+  {
+    "name": "shuffle dance C",
+    "group": "Songs",
+    "modelMotionFile": "songs/unk_shuffle_dance_vmd/shuffle_dance_c/main.vmd"
+  },
+  {
+    "name": "AOA- 凟xcuse me by Sewelina (Full) - motion fix. model Lina",
+    "group": "Songs",
+    "modelMotionFile": "songs/04_aoa_xcuse_me_by_sewelina_full_aoa_xcu/aoa_xcuse_me_by_sewelina/main.vmd",
+    "camMotionFile": "songs/04_aoa_xcuse_me_by_sewelina_full_aoa_xcu/aoa_xcuse_me_by_sewelina/camera.vmd",
+    "audioPlayerFile": "songs/04_aoa_xcuse_me_by_sewelina_full_aoa_xcu/aoa_xcuse_me_by_sewelina/audio.wav"
+  },
+  {
+    "name": "AOA- 凟xcuse me by Sewelina (Full) - motion fix. model Miku",
+    "group": "Songs",
+    "modelMotionFile": "songs/04_aoa_xcuse_me_by_sewelina_full_aoa_xcu/aoa_xcuse_me_by_sewelina/main_2.vmd",
+    "camMotionFile": "songs/04_aoa_xcuse_me_by_sewelina_full_aoa_xcu/aoa_xcuse_me_by_sewelina/camera.vmd",
+    "audioPlayerFile": "songs/04_aoa_xcuse_me_by_sewelina_full_aoa_xcu/aoa_xcuse_me_by_sewelina/audio.wav"
+  },
+  {
+    "name": "AOA- 凟xcuse me by Sewelina (Full) - motion fix. model Miku_Asuka_20220108_144026",
+    "group": "Songs",
+    "modelMotionFile": "songs/04_aoa_xcuse_me_by_sewelina_full_aoa_xcu/aoa_xcuse_me_by_sewelina/main_3.vmd",
+    "camMotionFile": "songs/04_aoa_xcuse_me_by_sewelina_full_aoa_xcu/aoa_xcuse_me_by_sewelina/camera.vmd",
+    "audioPlayerFile": "songs/04_aoa_xcuse_me_by_sewelina_full_aoa_xcu/aoa_xcuse_me_by_sewelina/audio.wav"
+  },
+  {
+    "name": "Holy Moly motion by Snaksil",
+    "group": "Songs",
+    "modelMotionFile": "songs/10_holy_moly_motion_by_snaksil_holy_moly/holy_moly_motion_by_snak/main.vmd",
+    "camMotionFile": "songs/10_holy_moly_motion_by_snaksil_holy_moly/holy_moly_motion_by_snak/camera.vmd",
+    "audioPlayerFile": "songs/10_holy_moly_motion_by_snaksil_holy_moly/holy_moly_motion_by_snak/audio.wav"
+  },
+  {
+    "name": "IVE - Accendio",
+    "group": "Songs",
+    "modelMotionFile": "songs/12_ive_accendio_metive_ive_accendio/ive_accendio/main.vmd",
+    "camMotionFile": "songs/12_ive_accendio_metive_ive_accendio/ive_accendio/camera.vmd",
+    "audioPlayerFile": "songs/12_ive_accendio_metive_ive_accendio/ive_accendio/audio.wav"
+  },
+  {
+    "name": "IVE - Accendio（Metiveにてトレース）Ver2",
+    "group": "Songs",
+    "modelMotionFile": "songs/13_ive_accendio_metive_ver2_ive_accendio/ive_accendio_metive_ver2/main.vmd",
+    "camMotionFile": "songs/13_ive_accendio_metive_ver2_ive_accendio/ive_accendio_metive_ver2/camera.vmd",
+    "audioPlayerFile": "songs/12_ive_accendio_metive_ive_accendio/ive_accendio/audio.wav"
+  },
+  {
+    "name": "Kavkaz by Snaksil",
+    "group": "Songs",
+    "modelMotionFile": "songs/14_kavkaz_by_snaksil_kavkaz_by_snaksil/kavkaz_by_snaksil/main.vmd",
+    "camMotionFile": "songs/14_kavkaz_by_snaksil_kavkaz_by_snaksil/kavkaz_by_snaksil/camera.vmd",
+    "audioPlayerFile": "songs/14_kavkaz_by_snaksil_kavkaz_by_snaksil/kavkaz_by_snaksil/audio.wav"
+  },
+  {
+    "name": "LOW CORTISOL FUNK motion by Snaksil",
+    "group": "Songs",
+    "modelMotionFile": "songs/15_low_cortisol_funk_motion_by_snaksil_l/low_cortisol_funk_motion/main.vmd",
+    "camMotionFile": "songs/15_low_cortisol_funk_motion_by_snaksil_l/low_cortisol_funk_motion/camera.vmd",
+    "audioPlayerFile": "songs/15_low_cortisol_funk_motion_by_snaksil_l/low_cortisol_funk_motion/audio.wav"
+  },
+  {
+    "name": "LOW CORTISOL LOOP motion by Snaksil",
+    "group": "Songs",
+    "modelMotionFile": "songs/16_low_cortisol_loop_motion_by_snaksil/low_cortisol_loop_motion/main.vmd",
+    "audioPlayerFile": "songs/16_low_cortisol_loop_motion_by_snaksil/low_cortisol_loop_motion/audio.wav"
+  },
+  {
+    "name": "Mosi Mosi motion by Snaksil",
+    "group": "Songs",
+    "modelMotionFile": "songs/18_mosi_mosi_motion_by_snaksil_mosi_mosi/mosi_mosi_motion_by_snak/main.vmd",
+    "camMotionFile": "songs/18_mosi_mosi_motion_by_snaksil_mosi_mosi/mosi_mosi_motion_by_snak/camera.vmd",
+    "audioPlayerFile": "songs/18_mosi_mosi_motion_by_snaksil_mosi_mosi/mosi_mosi_motion_by_snak/audio.wav"
+  },
+  {
+    "name": "Never gonna get it by Snaksil - Never Gonna Get It 1455",
+    "group": "Songs",
+    "modelMotionFile": "songs/19_never_gonna_get_it_by_snaksil_never_g/never_gonna_get_it_by_sn/main.vmd",
+    "camMotionFile": "songs/19_never_gonna_get_it_by_snaksil_never_g/never_gonna_get_it_by_sn/camera.vmd",
+    "audioPlayerFile": "songs/19_never_gonna_get_it_by_snaksil_never_g/never_gonna_get_it_by_sn/audio.wav"
+  },
+  {
+    "name": "Never gonna get it by Snaksil - Never Gonna Get It LOOP",
+    "group": "Songs",
+    "modelMotionFile": "songs/19_never_gonna_get_it_by_snaksil_never_g/never_gonna_get_it_by_sn/main_2.vmd",
+    "camMotionFile": "songs/19_never_gonna_get_it_by_snaksil_never_g/never_gonna_get_it_by_sn/camera.vmd",
+    "audioPlayerFile": "songs/19_never_gonna_get_it_by_snaksil_never_g/never_gonna_get_it_by_sn/audio.wav"
+  },
+  {
+    "name": "She goes by. - By Snaksil",
+    "group": "Songs",
+    "modelMotionFile": "songs/22_she_goes_by_by_snaksil_she_goes_by_by/she_goes_by_by_snaksil/main.vmd",
+    "camMotionFile": "songs/22_she_goes_by_by_snaksil_she_goes_by_by/she_goes_by_by_snaksil/camera.vmd",
+    "audioPlayerFile": "songs/22_she_goes_by_by_snaksil_she_goes_by_by/she_goes_by_by_snaksil/audio.wav"
+  },
+  {
+    "name": "aespa - LEMONADE - LEMONADE [NOT SMOOTH]",
+    "group": "Songs",
+    "modelMotionFile": "songs/24_aespa_lemonade_aespa_lemonade/aespa_lemonade_lemonade_/main.vmd",
+    "camMotionFile": "songs/24_aespa_lemonade_aespa_lemonade/aespa_lemonade_lemonade_/camera.vmd",
+    "audioPlayerFile": "songs/24_aespa_lemonade_aespa_lemonade/aespa_lemonade_lemonade_/audio.wav"
+  },
+  {
+    "name": "aespa - LEMONADE - LEMONADE [SMOOTH]",
+    "group": "Songs",
+    "modelMotionFile": "songs/24_aespa_lemonade_aespa_lemonade/aespa_lemonade_lemonade_/main_2.vmd",
+    "camMotionFile": "songs/24_aespa_lemonade_aespa_lemonade/aespa_lemonade_lemonade_/camera.vmd",
+    "audioPlayerFile": "songs/24_aespa_lemonade_aespa_lemonade/aespa_lemonade_lemonade_/audio.wav"
+  },
+  {
+    "name": "aespa - Whiplash - Whiplash [NOT SMOOTH]",
+    "group": "Songs",
+    "modelMotionFile": "songs/25_aespa_whiplash_aespa_whiplash/aespa_whiplash_whiplash_/main.vmd",
+    "camMotionFile": "songs/25_aespa_whiplash_aespa_whiplash/aespa_whiplash_whiplash_/camera.vmd",
+    "audioPlayerFile": "songs/25_aespa_whiplash_aespa_whiplash/aespa_whiplash_whiplash_/audio.wav"
+  },
+  {
+    "name": "aespa - Whiplash - Whiplash [SMOOTH]",
+    "group": "Songs",
+    "modelMotionFile": "songs/25_aespa_whiplash_aespa_whiplash/aespa_whiplash_whiplash_/main_2.vmd",
+    "camMotionFile": "songs/25_aespa_whiplash_aespa_whiplash/aespa_whiplash_whiplash_/camera.vmd",
+    "audioPlayerFile": "songs/25_aespa_whiplash_aespa_whiplash/aespa_whiplash_whiplash_/audio.wav"
+  }
+]

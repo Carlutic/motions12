@@ -60,12 +60,14 @@
   {
     "name": "Hatsune Miku - 6AM (Smooth)",
     "group": "Songs",
-    "modelMotionFile": "songs/songs_hatsune_miku_6am_data/hatsune_miku_6am_smooth_/main.vmd"
+    "modelMotionFile": "songs/songs_hatsune_miku_6am_data/hatsune_miku_6am_smooth_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/e3d9f63e530f48cf.mp3"
   },
   {
     "name": "Hatsune Miku - 6AM (legs)",
     "group": "Songs",
-    "modelMotionFile": "songs/songs_hatsune_miku_6am_data/hatsune_miku_6am_legs_/main.vmd"
+    "modelMotionFile": "songs/songs_hatsune_miku_6am_data/hatsune_miku_6am_legs_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/e3d9f63e530f48cf.mp3"
   },
   {
     "name": "If We Ever Broke Up",
@@ -189,29 +191,34 @@
     "name": "39 (サンキュー)",
     "group": "Songs",
     "modelMotionFile": "songs/unk_39/39_/main.vmd",
-    "camMotionFile": "songs/unk_39/39_/camera.vmd"
+    "camMotionFile": "songs/unk_39/39_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fd18fcb537daab74.mp3"
   },
   {
     "name": "GETCHA - ëE",
     "group": "Songs",
     "modelMotionFile": "songs/unk_getcha_j_i_f_j/getcha_e/main.vmd",
-    "camMotionFile": "songs/unk_getcha_j_i_f_j/getcha_e/camera.vmd"
+    "camMotionFile": "songs/unk_getcha_j_i_f_j/getcha_e/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fd18fcb537daab74.mp3"
   },
   {
     "name": "GETCHA - ì¦",
     "group": "Songs",
     "modelMotionFile": "songs/unk_getcha_j_i_f_j/getcha_/main.vmd",
-    "camMotionFile": "songs/unk_getcha_j_i_f_j/getcha_/camera.vmd"
+    "camMotionFile": "songs/unk_getcha_j_i_f_j/getcha_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fd18fcb537daab74.mp3"
   },
   {
     "name": "IA Conqueror (full key)",
     "group": "Songs",
-    "modelMotionFile": "songs/unk_ia_conqueror_motion/ia_conqueror_full_key_/main.vmd"
+    "modelMotionFile": "songs/unk_ia_conqueror_motion/ia_conqueror_full_key_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bc90c2a0cb36e1e9.mp3"
   },
   {
     "name": "IA Conqueror (light)",
     "group": "Songs",
-    "modelMotionFile": "songs/unk_ia_conqueror_motion/ia_conqueror_light_/main.vmd"
+    "modelMotionFile": "songs/unk_ia_conqueror_motion/ia_conqueror_light_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bc90c2a0cb36e1e9.mp3"
   },
   {
     "name": "KDRD (A)",
@@ -232,17 +239,20 @@
   {
     "name": "shuffle dance A",
     "group": "Songs",
-    "modelMotionFile": "songs/unk_shuffle_dance_vmd/shuffle_dance_a/main.vmd"
+    "modelMotionFile": "songs/unk_shuffle_dance_vmd/shuffle_dance_a/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fd18fcb537daab74.mp3"
   },
   {
     "name": "shuffle dance B",
     "group": "Songs",
-    "modelMotionFile": "songs/unk_shuffle_dance_vmd/shuffle_dance_b/main.vmd"
+    "modelMotionFile": "songs/unk_shuffle_dance_vmd/shuffle_dance_b/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fd18fcb537daab74.mp3"
   },
   {
     "name": "shuffle dance C",
     "group": "Songs",
-    "modelMotionFile": "songs/unk_shuffle_dance_vmd/shuffle_dance_c/main.vmd"
+    "modelMotionFile": "songs/unk_shuffle_dance_vmd/shuffle_dance_c/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/fd18fcb537daab74.mp3"
   },
   {
     "name": "AOA- 凟xcuse me by Sewelina (Full) - motion fix. model Lina",
